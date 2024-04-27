@@ -15,12 +15,20 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/4411121/222522293-ae6f1662-7c61-4dde-8f42-119c51a8606a.png" alt="The project at its starting point.">
+  <img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/1-ui.png" alt="The UI at its starting point.">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4411121/222522353-b13ce1d1-723f-4efb-ad3b-1df3168b4a6f.png" alt="The project after 10 button clicks"></p>
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/2-add-note.png" alt="The UI when a note is added"></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/4411121/222522401-59d2116a-7be5-4f26-bbe0-46ad3a7b41fb.png" alt="The project after 20 button clicks">
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/3-write-note.png" alt="The UI when notes are created">
+</p>
+
+<p align="center">
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/4-search-note.png" alt="The UI dynamically filtering in real time with search input">
+</p>
+
+<p align="center">
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/6-delete-note.png" alt="The UI after deleting a note">
 </p>
