@@ -22,11 +22,11 @@ You may also see any lint errors in the console.
 <img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/2-add-note.png" alt="The UI when a note is added"></p>
 
 <p align="center">
-<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/3-write-note.png" alt="The UI when notes are created">
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/4-notes-created.png" alt="The UI when notes are created">
 </p>
 
 <p align="center">
-<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/4-search-note.png" alt="The UI dynamically filtering in real time with search input">
+<img src="https://github.com/mbruce10/Sticky-Notes-App/blob/main/images/5-search-note.png" alt="The UI dynamically filtering in real time with search input">
 </p>
 
 <p align="center">
